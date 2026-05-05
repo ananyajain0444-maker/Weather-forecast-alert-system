@@ -65,11 +65,18 @@ Weather-Forecast-Alert-System/
 
 ---
 
-# ⚙️ Installation Guide
+📊 Output Generated
 
-Create Virtual Environment
+After execution, the system creates:
 
-python -m venv venv
+📸 Generated Charts
+🌡️ Temperature Chart
+
+💧 Humidity Chart
+
+🌧️ Rain Probability Chart
+
+📊 Combined Weather Analysis
 venv\Scripts\activate
 
 ▶️ Run Project
