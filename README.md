@@ -65,20 +65,71 @@ Weather-Forecast-Alert-System/
 
 ---
 
-📊 Output Generated
+## 📊 Outputs Generated
 
-After execution, the system creates:
+All generated charts are stored in the `images/` folder and displayed below:
 
-📸 Generated Charts
-🌡️ Temperature Chart
+---
 
-💧 Humidity Chart
+### 🌡️ Temperature Forecast
+![Temperature Chart](./images/temp_chart.png)
 
-🌧️ Rain Probability Chart
+---
 
-📊 Combined Weather Analysis
-venv\Scripts\activate
+### 💧 Humidity Analysis
+![Humidity Chart](./images/humidity_chart.png)
 
-▶️ Run Project
-python main.py
+---
 
+### 🌧️ Rain Probability
+![Rain Chart](./images/rain_chart.png)
+
+---
+
+### 📊 Combined Weather Analysis
+![Combined Chart](./images/combined_chart.png)
+
+---
+
+## ⚠️ Alert System Logic
+
+The system automatically generates alerts based on weather conditions:
+
+- 🔥 Temperature > 35°C → Heat Alert  
+- 🌧️ Rain probability > 60% → Rain Alert  
+- 💧 High humidity → Humidity Alert  
+
+---
+
+## 🧪 Sample Output
+
+```text id="sample_out"
+📊 ALERTS:
+🔥 Heat Alert (Temp > 35°C)
+🌧️ Rain Alert (High Rain Probability)
+💧 High Humidity Alert
+
+## 🌍 Real-World Applications
+
+- 🌾 Agriculture planning  
+- 🚚 Logistics route optimization  
+- 🎪 Event planning safety  
+- ✈️ Travel forecasting  
+- 🏭 Industrial weather monitoring  
+
+---
+
+## 📚 Learning Outcomes
+
+- API Integration in Python  
+- Data analysis using Pandas  
+- Visualization using Matplotlib  
+- Rule-based alert systems  
+- Modular project design  
+- GitHub project structuring  
+
+---
+
+## 👨‍💻 Author
+
+**Ananya Jain**  
