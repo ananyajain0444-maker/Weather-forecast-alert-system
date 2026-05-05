@@ -101,15 +101,6 @@ The system automatically generates alerts based on weather conditions:
 
 ---
 
-## 🧪 Sample Output
-
-```text id="sample_out"
-📊 ALERTS:
-🔥 Heat Alert (Temp > 35°C)
-🌧️ Rain Alert (High Rain Probability)
-💧 High Humidity Alert
-
----
 
 ## 🌍 Real-World Applications
 
