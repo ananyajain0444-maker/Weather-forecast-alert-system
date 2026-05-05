@@ -109,6 +109,8 @@ The system automatically generates alerts based on weather conditions:
 🌧️ Rain Alert (High Rain Probability)
 💧 High Humidity Alert
 
+---
+
 ## 🌍 Real-World Applications
 
 - 🌾 Agriculture planning  
